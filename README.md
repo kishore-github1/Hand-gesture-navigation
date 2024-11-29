@@ -47,22 +47,28 @@ Here are some examples of how the hand gesture recognition system performs:
 
 ### Gesture Examples
 - **Up Gesture (Arm Up)**
-  ![Up Gesture]() <!-- Replace with the actual image URL -->
+  ![Screenshot 2024-10-23 134322](https://github.com/user-attachments/assets/77800b17-8f57-445d-b8e0-066cc9e20adf)
+ <!-- Replace with the actual image URL -->
   
 - **Down Gesture (Arm Dowm)**
-  ![Down Gesture]() <!-- Replace with the actual image URL -->
+  ![Screenshot 2024-10-23 135047](https://github.com/user-attachments/assets/10f39857-8deb-47f6-b53d-10131da2552e)
+ <!-- Replace with the actual image URL -->
 
 - **Left Gesture (Turn Left)**
-  ![Left Gesture]() <!-- Replace with the actual image URL -->
+  ![Screenshot 2024-10-23 134141](https://github.com/user-attachments/assets/80d59b5b-858e-422f-ac7f-ee859044e129)
+ <!-- Replace with the actual image URL -->
 
 - **Right Gesture (Turn Right)**
-  ![Right Gesture]() <!-- Replace with the actual image URL -->
+  ![Screenshot 2024-10-23 134120](https://github.com/user-attachments/assets/abe10c0d-e2b5-40a5-b109-814d6a98e6f4)
+ <!-- Replace with the actual image URL -->
 
 - **Advance Gesture (Move front)**
-  ![Front Gesture]() <!-- Replace with the actual image URL -->
+  ![Screenshot 2024-10-23 134007](https://github.com/user-attachments/assets/7ce7855f-b285-4e1d-a24d-77a9d2136776)
+ <!-- Replace with the actual image URL -->
 
 - **Back Gesture (Move back)**
-  ![Back Gesture]() <!-- Replace with the actual image URL -->
+  ![Screenshot 2024-10-23 134038](https://github.com/user-attachments/assets/4f033b0d-1a1e-4fa0-a287-48d1900d905e)
+ <!-- Replace with the actual image URL -->
 
 ### Robot car
 - ![WhatsApp Image 2024-10-23 at 14 21 51_82e3850f](https://github.com/user-attachments/assets/c684309b-5acc-4276-b57d-a2d4304373f5)
