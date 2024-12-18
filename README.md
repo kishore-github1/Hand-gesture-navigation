@@ -15,9 +15,7 @@ This project involves using **MediaPipe** and the **Google Hand Landmark Model**
 - [Results](#results)
 
 ## Live Demo
-
-You can view the live demo [here](./live-demo.html).
-
+You can view the detailed LinkedIn post related to this project [here](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7273964578198233089).
 
 
 ## Introduction
