@@ -16,14 +16,11 @@ This project involves using **MediaPipe** and the **Google Hand Landmark Model**
 
 ## Live Demo
 
-To see a live demo of this project, check out the embedded post below:
+You can view the detailed LinkedIn post related to this project [here](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7273964578198233089).
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7273964578198233089" 
-        height="856" 
-        width="504" 
-        frameborder="0" 
-        allowfullscreen="" 
-        title="Embedded post"></iframe>
+Alternatively, here’s a preview of the post:
+
+[![LinkedIn Post Preview](https://via.placeholder.com/504x856.png?text=LinkedIn+Post+Preview)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7273964578198233089)
 
 
 ## Introduction
