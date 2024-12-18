@@ -6,12 +6,25 @@ This project involves using **MediaPipe** and the **Google Hand Landmark Model**
  <!-- Replace with the actual image URL -->
 
 ## Table of Contents
+- [Live Demo](#live-demo)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Results](#results)
+
+## Live Demo
+
+To see a live demo of this project, check out the embedded post below:
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7273964578198233089" 
+        height="856" 
+        width="504" 
+        frameborder="0" 
+        allowfullscreen="" 
+        title="Embedded post"></iframe>
+
 
 ## Introduction
 Hand Gesture Recognition allows users to control a robotic arm car by using predefined hand gestures. The integration of **MediaPipe** and the **Google Landmark Model** enables real-time recognition of gestures with high accuracy. 
